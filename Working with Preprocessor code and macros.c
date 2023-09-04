@@ -47,7 +47,7 @@ int main(void)
 {
     int i;
 
-    /* None here the advantage of macro:
+    /* Notice here the advantage of macro:
      we can easily redefine the value of population above
      for exemple: we reuse this code to check for Northern elephant seals */
     int data[POPULATION];
